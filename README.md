@@ -34,3 +34,6 @@ EDA involves the exploration of data in an attmept to answr defiite questions th
 - Which products are top sellers
 - What are the monthly sales trends?
 
+### Data Visualisation
+
+https://github.com/Hephzibah242/Capstone-Projects/tree/main#project-overview

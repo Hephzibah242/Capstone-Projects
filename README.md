@@ -2,6 +2,19 @@
 
 ## Project Title: Sales Performance Analysis
 
+[Project Overview](#Project-Overview)
+
+[Data Sources](#Data-Sources)
+
+[Tools Used](#Tools-Used)
+
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Data Visualisation](#Data-Visualisation)
+
+
 ### Project Overview
 ---
 This project involves analyzing the sales performance of a retail store. It shows the exploration pf sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. Thos interactive Power BI dashboard helps to highlight these findings.
@@ -37,3 +50,12 @@ EDA involves the exploration of data in an attmept to answr defiite questions th
 ### Data Visualisation
 ---
 https://github.com/Hephzibah242/Capstone-Projects/blob/main/image_2024-11-05_043231377.png
+
+From the above visualisation, 
+- Highest sold product is gloves
+- Least sold product is socks
+- Region with highest sales is East
+- Region with least sales is West
+- Total price is 11M
+- Average price is 211.75
+- Total units sold is 345K

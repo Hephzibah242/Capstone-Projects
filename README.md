@@ -35,7 +35,5 @@ EDA involves the exploration of data in an attmept to answr defiite questions th
 - What are the monthly sales trends?
 
 ### Data Visualisation
-
-https://github.com/Hephzibah242/Capstone-Projects/tree/main#project-overview
-
+---
 https://github.com/Hephzibah242/Capstone-Projects/blob/main/image_2024-11-05_043231377.png

@@ -108,7 +108,7 @@ To a larger extent, data used for this project was clean and required minimal cl
 
 ### Exploratory Data Analysis
 ---
-EDA involves the exploration of data in an attmept to answr defiite questions that wil aid business descions. questions such as:
+EDA involves the exploration of data in an attmept to answr defiite questions that wil aid business descions. Questions such as:
 - What are the common customer behaviors?
 - What are the key trends in cancellations and renewals?
 - What is the maximum revenue generated?
@@ -116,3 +116,14 @@ EDA involves the exploration of data in an attmept to answr defiite questions th
 - What is the total revenue generated?
 
 ### Data Visualisation
+---
+https://github.com/Hephzibah242/Capstone-Projects
+
+From the above visualisation,
+- The total revenue is 150M
+- The average revenue is 2.00K
+- The maximum revenue generated is 3000
+- The minimum revenue generated is 1000
+- The highest used subscription type is Basic
+- The region with highest sales is East
+- The region with least sales is West
